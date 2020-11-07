@@ -17,3 +17,17 @@ La idea principal del proyecto consistirá de una aplicación, la cual recibirá
 con el fin de ser traducida al Español (si es que la letra original de la canción está en otro idioma) presionando un botón,
 posteriormente la letra ya traducida será mostrada en pantalla.
 
+13:17 - 07/11/2020
+
+Decidimos que será una aplicación "móvil", la cual sea capaz de traducir la canción que estés escuchando en ese momento en Spotify.
+De esta manera, ayudar a personas que no hablen inglés, a entender las letras de sus canciones favoritas.
+
+En su interface el usuario verá el nombre del artista y la canción que esta escuchando en el momento, también incluirá un botón para 
+llevar a cabo la traducción.
+
+Para este proyecto, utilizaremos React Native y nos apoyaremos en 3 API’s, la API de Spotify, la API de Google Translator y la API de musixmatch.
+
+Existen aplicaciones similares, como musixmatch y Google Translator, pero nuestro proyecto busca juntar estas aplicaciones con el fin 
+de facilitar aún más la traducción de las canciones.
+
+Esta aplicación traducirá las canciones de manera eficiente, y con pocos pasos, haciéndola cómoda para el usuario.
