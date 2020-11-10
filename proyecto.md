@@ -35,6 +35,9 @@ Esta aplicación traducirá las canciones de manera eficiente, y con pocos pasos
 15:26 - 10/11/2020
 
 Se realizo la primera retroalimentacion dirigida por la profesora, como grupo extraimos de la conversacion las siguientes ideas para el programa:
+
 -Opciones de valoracion para las traducciones. 
+
 -Juegos interactivos opcionales (estos todavia no se encuntran bien definidos pero estaran relacionados directamente con las palabras de contenga la cancion).
+
 -Recomendaciones de canciones del mismo artista que el usuario estaba escuchando.
