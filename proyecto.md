@@ -36,11 +36,42 @@ Esta aplicación traducirá las canciones de manera eficiente, y con pocos pasos
 
 Se realizo la primera retroalimentacion dirigida por la profesora, como grupo extraimos de la conversacion las siguientes ideas para el programa:
 
--Opciones de valoracion para las traducciones. 
+- Opciones de valoracion para las traducciones. 
 
--Juegos interactivos opcionales (estos todavia no se encuntran bien definidos pero estaran relacionados directamente con las palabras de contenga la cancion).
+- Juegos interactivos opcionales (estos todavia no se encuntran bien definidos pero estaran relacionados directamente con las palabras de contenga la cancion).
 
--Recomendaciones de canciones del mismo artista que el usuario estaba escuchando.
+- Recomendaciones de canciones del mismo artista que el usuario estaba escuchando.
 
 17:00 - 21/11/2020
 
+Este proyecto será realizado en React Native, haciendo uso de 3 API’s (Spotify, Google Translator y Musixmatch) y, además, una base de datos (la cual será Amazon Web Services). 
+
+ 
+
+Esta aplicación cumplirá con las siguientes características: 
+
+- Mostrar qué canción se está escuchando en el momento. 
+
+- Poder traducir las canciones de manera directa con Spotify. 
+
+- Recomendar canciones del mismo artista. 
+
+- Poseerá un “juego” que consistirá en que se seleccione una palabra, y el usuario tendrá que escoger entre 4 opciones el significado de la palabra en cuestión. 
+
+- Poseerá un “juego” que consistirá en que se seleccione una palabra, y el usuario tendrá que escoger entre 4 imágenes cuál es la correcta. 
+
+Planificación:  
+
+Primera meta: Se espera que para el sábado 28 de noviembre ya hayan sido conectadas las API’s de Spotify, Musixmatch y Google Translator con la app. 
+
+Segunda meta: El viernes 4 de diciembre la meta que esperamos lograr es la creación de la interfaz para la app (dentro de la interfaz consideramos el botón de traducir, las recomendaciones de canciones y la visualización del nombre de la canción escuchada), además, esperamos como meta adicional haber empezado con los primeros avances de uno de los juegos. 
+
+Tercera meta: Para el sábado 12 de diciembre, esperamos ya tener terminado el primer juego (este es el de elección del significado de la palabra) y el segundo (este consiste en elegir la imagen asociada a la palabra seleccionada) ya terminado. 
+
+Cuarta meta: Será para el sábado 19 de diciembre y tendrá como finalidad poder revisar y arreglar los detalles estéticos que necesite la app, es decir, esperamos tener una interfaz más “bonita” para los usuarios. 
+
+ 
+
+También ha sido agregado al Github evidencia de que ya ha sido instalado React Native y podemos correr aplicaciones en nuestros dispositivos móviles. 
+
+ 
