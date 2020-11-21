@@ -41,3 +41,6 @@ Se realizo la primera retroalimentacion dirigida por la profesora, como grupo ex
 -Juegos interactivos opcionales (estos todavia no se encuntran bien definidos pero estaran relacionados directamente con las palabras de contenga la cancion).
 
 -Recomendaciones de canciones del mismo artista que el usuario estaba escuchando.
+
+17:00 - 21/11/2020
+
