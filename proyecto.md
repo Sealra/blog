@@ -74,4 +74,16 @@ Cuarta meta: Será para el sábado 19 de diciembre y tendrá como finalidad pode
 
 También ha sido agregado al Github evidencia de que ya ha sido instalado React Native y podemos correr aplicaciones en nuestros dispositivos móviles. 
 
- 
+18:53 - 28/11/2020 
+
+Como grupo consideramos la idea de realizar un cambio de formato en el proyecto debido a que luego de investigar más a fondo he intentar repetidas veces la conexión con la API de Spotify no se lograba hacer la conexión de manera correcta, además casi toda la información que pudimos encontrar con respecto a las implementaciones de las APIs (Spotify, Musixmatch y Google Translator) se encontraban dirigidas a React y el desarrollo web, es por esto que se le planteo la idea al ayudante de dirigir el proyecto hacia el desarrollo web, descartando la idea de hacer una aplicación como se pensó en primera instancia.
+
+20:52 - 28/11/2020
+
+Se redactó un correo digirió a la profesora del paralelo 1, en donde se le informó del cambio que se quería realizar con respecto al proyecto (pasar de una aplicación a página web) y también se aclaraba en el correo que las funcionalidades planteadas en la primera entrega se mantendrían en su totalidad.
+
+21:04 - 29/11/2020
+
+Se logró realizar con éxito la conexión entre la API de Spotify y la página web, como evidencia del progreso del proyecto se subió el avance de la primera conexión al repositorio en la carpeta lyricsfy.
+
+Además se empezó a trabajar la conexión con la API de Musixmatch.
