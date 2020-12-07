@@ -87,3 +87,9 @@ Se redactó un correo digirió a la profesora del paralelo 1, en donde se le inf
 Se logró realizar con éxito la conexión entre la API de Spotify y la página web, como evidencia del progreso del proyecto se subió el avance de la primera conexión al repositorio en la carpeta lyricsfy.
 
 Además se empezó a trabajar la conexión con la API de Musixmatch.
+
+02:54 - 08/12/2020
+
+La conexión con la API de Musixmatch y la pagina se establece con éxito, logrando que la letra de la canción que este escuchando el usuario aparezca en la página cabe destacar que la traducción de la letra no está integrada todavía, pero se empezara a trabajar en esa función.
+
+También se destaca que se planteó la posibilidad de utilizar el i18next (framework de internalización y localización) como herramienta para traducir las canciones.
