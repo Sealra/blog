@@ -100,7 +100,7 @@ También se destaca que se planteó la posibilidad de utilizar el i18next (frame
 
 22:31 - 07/12/2020
 
-Para la traducción de las letras se decide utilizar la API Traslator Texts de Microsoft Azure, este cambio se debió a que se presentaron problemas a la hora de registrarnos para obtener el acceso a la API (se dejará la evidencia n°3 para mostrar el problema en el repositorio), ante esto como una solución alternativa se optó por usar la API mencionada anteriormente, ya que cumple con las misma características de la API de Google Translator como por ejemplo su detección de idiomas, permisos de usos gratuitos de la API, es decir, se puede llamar varias veces a la API de forma gratuita y amplia variedad de idiomas que se pueden traducir 
+Para la traducción de las letras se decide utilizar la API Translator Texts de Microsoft Azure, este cambio se debió a que se presentaron problemas a la hora de registrarnos para obtener el acceso a la API (se dejará la evidencia n°3 para mostrar el problema en el repositorio), ante esto como una solución alternativa se optó por usar la API mencionada anteriormente, ya que cumple con las misma características de la API de Google Translator como por ejemplo su detección de idiomas, permisos de usos gratuitos de la API, es decir, se puede llamar varias veces a la API de forma gratuita y amplia variedad de idiomas que se pueden traducir 
 
 (Cabe destacar que la API de Google nos entregaba mayor acceso a diferentes idiomas (alrededor de 100 idiomas) en comparación de la API de Microsoft Azure (alrededor de 70 idiomas) pero como el proyecto se enfoca en el inglés esta diferencia fue ignorada).
 
