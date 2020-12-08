@@ -74,6 +74,8 @@ Cuarta meta: Será para el sábado 19 de diciembre y tendrá como finalidad pode
 
 También ha sido agregado al Github evidencia de que ya ha sido instalado React Native y podemos correr aplicaciones en nuestros dispositivos móviles. 
 
+Link en donde se encuntra la evidencia 1 y 2 : https://github.com/Sealra/blog
+
 18:53 - 28/11/2020 
 
 Como grupo consideramos la idea de realizar un cambio de formato en el proyecto debido a que luego de investigar más a fondo he intentar repetidas veces la conexión con la API de Spotify no se lograba hacer la conexión de manera correcta, además casi toda la información que pudimos encontrar con respecto a las implementaciones de las APIs (Spotify, Musixmatch y Google Translator) se encontraban dirigidas a React y el desarrollo web, es por esto que se le planteo la idea al ayudante de dirigir el proyecto hacia el desarrollo web, descartando la idea de hacer una aplicación como se pensó en primera instancia.
@@ -88,8 +90,20 @@ Se logró realizar con éxito la conexión entre la API de Spotify y la página 
 
 Además se empezó a trabajar la conexión con la API de Musixmatch.
 
+Link en donde se encuntra la carpeta Lyricsfy con el código con el progreso: https://github.com/Sealra/blog
+
 02:54 - 08/12/2020
 
 La conexión con la API de Musixmatch y la pagina se establece con éxito, logrando que la letra de la canción que este escuchando el usuario aparezca en la página cabe destacar que la traducción de la letra no está integrada todavía, pero se empezara a trabajar en esa función.
 
 También se destaca que se planteó la posibilidad de utilizar el i18next (framework de internalización y localización) como herramienta para traducir las canciones.
+
+22:31 - 08/12/2020
+
+Para la traducción de las letras se decide utilizar la API Traslator Texts de Microsoft Azure, este cambio se debió a que se presentaron problemas a la hora de registrarnos para obtener el acceso a la API (se dejará la evidencia n°3 para mostrar el problema en el repositorio), ante esto como una solución alternativa se optó por usar la API mencionada anteriormente, ya que cumple con las misma características de la API de Google Translator como por ejemplo su detección de idiomas, permisos de usos gratuitos de la API, es decir, se puede llamar varias veces a la API de forma gratuita y amplia variedad de idiomas que se pueden traducir 
+
+(Cabe destacar que la API de Google nos entregaba mayor acceso a diferentes idiomas (alrededor de 100 idiomas) en comparación de la API de Microsoft Azure (alrededor de 70 idiomas) pero como el proyecto se enfoca en el inglés esta diferencia fue ignorada).
+
+Se dejará la evidencia n°4 para demostrar el funcionamiento y desarrollo del proyecto hasta la fecha.
+
+Link del repositorio en donde se encuentra la evidencia n° 3 y 4: https://github.com/Sealra/blog
