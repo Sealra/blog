@@ -92,13 +92,13 @@ Además se empezó a trabajar la conexión con la API de Musixmatch.
 
 Link en donde se encuntra la carpeta Lyricsfy con el código con el progreso: https://github.com/Sealra/blog
 
-02:54 - 08/12/2020
+02:54 - 07/12/2020
 
 La conexión con la API de Musixmatch y la pagina se establece con éxito, logrando que la letra de la canción que este escuchando el usuario aparezca en la página cabe destacar que la traducción de la letra no está integrada todavía, pero se empezara a trabajar en esa función.
 
 También se destaca que se planteó la posibilidad de utilizar el i18next (framework de internalización y localización) como herramienta para traducir las canciones.
 
-22:31 - 08/12/2020
+22:31 - 07/12/2020
 
 Para la traducción de las letras se decide utilizar la API Traslator Texts de Microsoft Azure, este cambio se debió a que se presentaron problemas a la hora de registrarnos para obtener el acceso a la API (se dejará la evidencia n°3 para mostrar el problema en el repositorio), ante esto como una solución alternativa se optó por usar la API mencionada anteriormente, ya que cumple con las misma características de la API de Google Translator como por ejemplo su detección de idiomas, permisos de usos gratuitos de la API, es decir, se puede llamar varias veces a la API de forma gratuita y amplia variedad de idiomas que se pueden traducir 
 
