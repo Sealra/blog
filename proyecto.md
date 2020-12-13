@@ -107,3 +107,8 @@ Para la traducción de las letras se decide utilizar la API Translator Texts de 
 Se dejará la evidencia n°4 para demostrar el funcionamiento y desarrollo del proyecto hasta la fecha.
 
 Link del repositorio en donde se encuentra la evidencia n° 3 y 4: https://github.com/Sealra/blog
+
+23:00 - 12/12/2020
+
+Fue realizada la entrega N°2 del proyecto, se grabó el video (que puede ser encontrado en el siguiente link: https://www.youtube.com/watch?v=sScvKTpBUUw), y además, se subió el código a el siguiente repositorio: https://github.com/Sealra/lyricsfy, recomendamos encarecidamente leer el README.
+
