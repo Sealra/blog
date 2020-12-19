@@ -112,3 +112,6 @@ Link del repositorio en donde se encuentra la evidencia n° 3 y 4: https://githu
 
 Fue realizada la entrega N°2 del proyecto, se grabó el video (que puede ser encontrado en el siguiente link: https://www.youtube.com/watch?v=sScvKTpBUUw), y además, se subió el código a el siguiente repositorio: https://github.com/Sealra/lyricsfy, recomendamos encarecidamente leer el README.
 
+17:50 - 19/12/2020
+
+Para la entrega N°3 del proyecto, ha sido agregada la funcionalidad de que se recomienden las 10 canciones más populares del artista que estes escuchando, además, el código ha sido ordenado, con la finalidad de facilitar la compresión. La evidencia se encontrará en el repositorio de este mismo blog (https://github.com/Sealra/blog), en la carpeta "evidencia 19-12-2020".
