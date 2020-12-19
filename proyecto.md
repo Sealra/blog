@@ -114,4 +114,6 @@ Fue realizada la entrega N°2 del proyecto, se grabó el video (que puede ser en
 
 17:50 - 19/12/2020
 
-Para la entrega N°3 del proyecto, ha sido agregada la funcionalidad de que se recomienden las 10 canciones más populares del artista que estes escuchando, además, el código ha sido ordenado, con la finalidad de facilitar la compresión. La evidencia se encontrará en el repositorio de este mismo blog (https://github.com/Sealra/blog), en la carpeta "evidencia 19-12-2020".
+Para la entrega N°3 del proyecto, ha sido agregada la funcionalidad de que se recomienden las 10 canciones más populares del artista que estes escuchando, además, el código ha sido ordenado, con la finalidad de facilitar la compresión, por lo cual, el repositorio con el código también ha sido actualizado (https://github.com/Sealra/lyricsfy). La evidencia se encontrará en el repositorio de este mismo blog (https://github.com/Sealra/blog), en la carpeta "evidencia 19-12-2020".
+
+Por otra parte, para mejorar la visibilidad de el repositorio del blog, se creó la carpeta "evidencia entregas pasadas" que contiene las evidencias anteriores del repositorio.
