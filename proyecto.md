@@ -122,4 +122,4 @@ Por otra parte, para mejorar la visibilidad de el repositorio del blog, se creó
 
 Se creó un documento con la explicación de las componentes y funcionalidad del proyecto para poder odenar los temas a tocar en el video, de esta forma se espera crear un video mucho mas organizado para la entrega final.
 
-Link del documento:
+Link del documento: https://github.com/Sealra/blog/blob/gh-pages/Funcionalidad%20de%20la%20App
