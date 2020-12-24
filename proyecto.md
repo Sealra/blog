@@ -118,8 +118,7 @@ Para la entrega N°3 del proyecto, ha sido agregada la funcionalidad de que se r
 
 Por otra parte, para mejorar la visibilidad de el repositorio del blog, se creó la carpeta "evidencia entregas pasadas" que contiene las evidencias anteriores del repositorio.
 
-13:46 - 23/12/2020
+23:46 - 23/12/2020
 
-Se creó un documento con la explicación de las componentes y funcionalidad del proyecto para poder odenar los temas a tocar en el video, de esta forma se espera crear un video mucho mas organizado para la entrega final.
+Se realizó la 3ra entrega del proyecto, subiendo el vídeo a Youtube en el siguiente link: https://www.youtube.com/watch?v=LQma6Ap1yfY
 
-Link del documento: https://github.com/Sealra/blog/blob/gh-pages/Funcionalidad%20de%20la%20App
